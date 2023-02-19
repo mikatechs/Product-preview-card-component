@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github.io](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Product Preview Card Component Solution](https://github.com/mikatechs/Product-preview-card-component)
+- Live Site URL: [Product Preview Card Component Live site](https://mikatechs.github.io/Product-preview-card-component/)
 
 ## My process
 
@@ -71,6 +71,6 @@ Learned "sr-only" (Screen Reader) to hide information used for screen readers fr
 
 ## Author
 
-- Website - [Mika Varshanidze](https://www.your-site.com)
+- Website - [Mika Varshanidze](https://github.com/mikatechs/)
 - Frontend Mentor - [@mikatechs](https://www.frontendmentor.io/profile/mikatechs)
 - Facebook - [Mika Varshanidze](https://www.facebook.com/mikatechs)
